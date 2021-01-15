@@ -1,0 +1,17 @@
+//Custom 400 errors
+ErrorDocument 400 /maintenance.html
+
+//Custom 401 errors
+ErrorDocument 401 /404.html
+
+//Custom 403 errors
+ErrorDocument 403 /maintenance.html
+
+//Custom 404 errors
+ErrorDocument 404 /maintenance.html
+
+//Custom 500 errors
+ErrorDocument 500 /maintenance.html
+
+//Custom 503 errors
+ErrorDocument 503 /503.html
